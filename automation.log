@@ -1,0 +1,23 @@
+{"timestamp":"2025-12-18T12:01:05.8823075+05:30","level":"INFO","message":"Added message for Alice to queue"}
+{"timestamp":"2025-12-18T12:01:05.915851+05:30","level":"INFO","message":"Added message for Bob to queue"}
+{"timestamp":"2025-12-18T12:01:05.9323547+05:30","level":"INFO","message":"Added message for Carol to queue"}
+{"timestamp":"2025-12-18T12:01:05.9740806+05:30","level":"INFO","message":"Added message for David to queue"}
+{"timestamp":"2025-12-18T12:01:06.0915589+05:30","level":"INFO","message":"Added message for Eve to queue"}
+{"timestamp":"2025-12-18T12:01:06.4415477+05:30","level":"INFO","message":"🚀 Automation started"}
+{"timestamp":"2025-12-18T12:01:06.4642134+05:30","level":"INFO","message":"Rate limits: 20/hour, 100/day"}
+{"timestamp":"2025-12-18T12:01:06.5737772+05:30","level":"INFO","message":"Sending message to Alice Smith..."}
+{"timestamp":"2025-12-18T12:01:08.6753696+05:30","level":"SUCCESS","message":"Message sent successfully","contact_id":"1","contact_name":"Alice Smith"}
+{"timestamp":"2025-12-18T12:01:08.8135497+05:30","level":"INFO","message":"Waiting 47s before next message..."}
+{"timestamp":"2025-12-18T12:01:55.9796383+05:30","level":"INFO","message":"Sending message to Bob Johnson..."}
+{"timestamp":"2025-12-18T12:01:57.9267407+05:30","level":"SUCCESS","message":"Message sent successfully","contact_id":"2","contact_name":"Bob Johnson"}
+{"timestamp":"2025-12-18T12:01:58.1494583+05:30","level":"INFO","message":"Waiting 54s before next message..."}
+{"timestamp":"2025-12-18T12:02:52.2572942+05:30","level":"INFO","message":"Sending message to Carol Williams..."}
+{"timestamp":"2025-12-18T12:02:53.868901+05:30","level":"SUCCESS","message":"Message sent successfully","contact_id":"3","contact_name":"Carol Williams"}
+{"timestamp":"2025-12-18T12:02:53.8707342+05:30","level":"INFO","message":"Waiting 44s before next message..."}
+{"timestamp":"2025-12-18T12:03:37.877345+05:30","level":"INFO","message":"Sending message to David Brown..."}
+{"timestamp":"2025-12-18T12:03:39.2463885+05:30","level":"ERROR","message":"Failed to send message","contact_id":"4","contact_name":"David Brown","error":"simulated error: connection timeout"}
+{"timestamp":"2025-12-18T12:03:39.5232009+05:30","level":"INFO","message":"Waiting 40s before next message..."}
+{"timestamp":"2025-12-18T12:04:19.6984051+05:30","level":"INFO","message":"Sending message to Eve Davis..."}
+{"timestamp":"2025-12-18T12:04:21.564098+05:30","level":"SUCCESS","message":"Message sent successfully","contact_id":"5","contact_name":"Eve Davis"}
+{"timestamp":"2025-12-18T12:04:21.5677972+05:30","level":"INFO","message":"Waiting 36s before next message..."}
+{"timestamp":"2025-12-18T12:48:46.501599+05:30","level":"INFO","message":"🛑 Automation stopped"}

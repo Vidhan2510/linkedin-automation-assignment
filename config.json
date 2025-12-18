@@ -1,0 +1,11 @@
+{
+  "max_messages_per_hour": 20,
+  "max_messages_per_day": 100,
+  "min_delay_seconds": 30,
+  "max_delay_seconds": 90,
+  "max_consecutive_errors": 3,
+  "linkedin_email": "",
+  "linkedin_password": ""
+}
+
+
